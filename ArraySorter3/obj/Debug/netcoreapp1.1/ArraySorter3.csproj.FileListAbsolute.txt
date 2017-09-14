@@ -6,3 +6,12 @@ c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\ArraySort
 c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\ArraySorter3\obj\Debug\netcoreapp1.1\ArraySorter3.AssemblyInfo.cs
 c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\ArraySorter3\obj\Debug\netcoreapp1.1\ArraySorter3.dll
 c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\ArraySorter3\obj\Debug\netcoreapp1.1\ArraySorter3.pdb
+C:\git\DataGathering\ArraySorter3\bin\Debug\netcoreapp1.1\ArraySorter3.deps.json
+C:\git\DataGathering\ArraySorter3\bin\Debug\netcoreapp1.1\ArraySorter3.runtimeconfig.json
+C:\git\DataGathering\ArraySorter3\bin\Debug\netcoreapp1.1\ArraySorter3.runtimeconfig.dev.json
+C:\git\DataGathering\ArraySorter3\bin\Debug\netcoreapp1.1\ArraySorter3.dll
+C:\git\DataGathering\ArraySorter3\bin\Debug\netcoreapp1.1\ArraySorter3.pdb
+C:\git\DataGathering\ArraySorter3\obj\Debug\netcoreapp1.1\ArraySorter3.csprojResolveAssemblyReference.cache
+C:\git\DataGathering\ArraySorter3\obj\Debug\netcoreapp1.1\ArraySorter3.AssemblyInfo.cs
+C:\git\DataGathering\ArraySorter3\obj\Debug\netcoreapp1.1\ArraySorter3.dll
+C:\git\DataGathering\ArraySorter3\obj\Debug\netcoreapp1.1\ArraySorter3.pdb

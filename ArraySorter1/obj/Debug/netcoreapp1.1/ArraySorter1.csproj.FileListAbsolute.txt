@@ -1,8 +1,9 @@
-c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\DataGathering\bin\Debug\netcoreapp1.1\ArraySorter1.deps.json
-c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\DataGathering\bin\Debug\netcoreapp1.1\ArraySorter1.runtimeconfig.json
-c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\DataGathering\bin\Debug\netcoreapp1.1\ArraySorter1.runtimeconfig.dev.json
-c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\DataGathering\bin\Debug\netcoreapp1.1\ArraySorter1.dll
-c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\DataGathering\bin\Debug\netcoreapp1.1\ArraySorter1.pdb
-c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\DataGathering\obj\Debug\netcoreapp1.1\ArraySorter1.AssemblyInfo.cs
-c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\DataGathering\obj\Debug\netcoreapp1.1\ArraySorter1.dll
-c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\DataGathering\obj\Debug\netcoreapp1.1\ArraySorter1.pdb
+C:\git\DataGathering\ArraySorter1\bin\Debug\netcoreapp1.1\ArraySorter1.deps.json
+C:\git\DataGathering\ArraySorter1\bin\Debug\netcoreapp1.1\ArraySorter1.runtimeconfig.json
+C:\git\DataGathering\ArraySorter1\bin\Debug\netcoreapp1.1\ArraySorter1.runtimeconfig.dev.json
+C:\git\DataGathering\ArraySorter1\bin\Debug\netcoreapp1.1\ArraySorter1.dll
+C:\git\DataGathering\ArraySorter1\bin\Debug\netcoreapp1.1\ArraySorter1.pdb
+C:\git\DataGathering\ArraySorter1\obj\Debug\netcoreapp1.1\ArraySorter1.csprojResolveAssemblyReference.cache
+C:\git\DataGathering\ArraySorter1\obj\Debug\netcoreapp1.1\ArraySorter1.AssemblyInfo.cs
+C:\git\DataGathering\ArraySorter1\obj\Debug\netcoreapp1.1\ArraySorter1.dll
+C:\git\DataGathering\ArraySorter1\obj\Debug\netcoreapp1.1\ArraySorter1.pdb

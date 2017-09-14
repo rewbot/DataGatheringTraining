@@ -2,11 +2,11 @@
 
 namespace ArraySorter1
 {
-    class Program
-    {
+	class Program
+	{
 		static void Main(string[] args)
 		{
-			int[] array = { 800, 11, 50, 771, 649, 770, 240, 9, 342, 999, 2, 1001, 3245, 89, 23, 198 };
+			int[] array = {800, 11, 50, 771, 649, 770, 240, 9, 342, 999, 2, 1001, 3245, 89, 23, 198};
 
 			Sort1(array);
 
@@ -56,6 +56,4 @@ namespace ArraySorter1
 			Sort1(array, i + 1, end);
 		}
 	}
-
-
 }

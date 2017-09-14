@@ -7042,10 +7042,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\ashepherd\\documents\\visual studio 2017\\Projects\\DataGathering\\ArraySorter3\\ArraySorter3.csproj",
+      "projectUniqueName": "C:\\git\\DataGathering\\ArraySorter3\\ArraySorter3.csproj",
       "projectName": "ArraySorter3",
-      "projectPath": "c:\\users\\ashepherd\\documents\\visual studio 2017\\Projects\\DataGathering\\ArraySorter3\\ArraySorter3.csproj",
-      "outputPath": "c:\\users\\ashepherd\\documents\\visual studio 2017\\Projects\\DataGathering\\ArraySorter3\\obj\\",
+      "projectPath": "C:\\git\\DataGathering\\ArraySorter3\\ArraySorter3.csproj",
+      "outputPath": "C:\\git\\DataGathering\\ArraySorter3\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

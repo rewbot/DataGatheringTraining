@@ -1,0 +1,8 @@
+c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\DataGathering\bin\Debug\netcoreapp1.1\Sort1.deps.json
+c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\DataGathering\bin\Debug\netcoreapp1.1\Sort1.runtimeconfig.json
+c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\DataGathering\bin\Debug\netcoreapp1.1\Sort1.runtimeconfig.dev.json
+c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\DataGathering\bin\Debug\netcoreapp1.1\Sort1.dll
+c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\DataGathering\bin\Debug\netcoreapp1.1\Sort1.pdb
+c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\DataGathering\obj\Debug\netcoreapp1.1\Sort1.AssemblyInfo.cs
+c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\DataGathering\obj\Debug\netcoreapp1.1\Sort1.dll
+c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\DataGathering\obj\Debug\netcoreapp1.1\Sort1.pdb

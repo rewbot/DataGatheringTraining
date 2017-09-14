@@ -1,0 +1,9 @@
+c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\DataGathering\bin\Debug\netcoreapp1.1\DataGathering.deps.json
+c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\DataGathering\bin\Debug\netcoreapp1.1\DataGathering.runtimeconfig.json
+c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\DataGathering\bin\Debug\netcoreapp1.1\DataGathering.runtimeconfig.dev.json
+c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\DataGathering\bin\Debug\netcoreapp1.1\DataGathering.dll
+c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\DataGathering\bin\Debug\netcoreapp1.1\DataGathering.pdb
+c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\DataGathering\obj\Debug\netcoreapp1.1\DataGathering.csprojResolveAssemblyReference.cache
+c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\DataGathering\obj\Debug\netcoreapp1.1\DataGathering.AssemblyInfo.cs
+c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\DataGathering\obj\Debug\netcoreapp1.1\DataGathering.dll
+c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\DataGathering\obj\Debug\netcoreapp1.1\DataGathering.pdb

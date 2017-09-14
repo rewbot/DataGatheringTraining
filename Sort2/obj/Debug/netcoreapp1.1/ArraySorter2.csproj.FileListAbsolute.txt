@@ -1,0 +1,8 @@
+c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\Sort2\bin\Debug\netcoreapp1.1\ArraySorter2.deps.json
+c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\Sort2\bin\Debug\netcoreapp1.1\ArraySorter2.runtimeconfig.json
+c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\Sort2\bin\Debug\netcoreapp1.1\ArraySorter2.runtimeconfig.dev.json
+c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\Sort2\bin\Debug\netcoreapp1.1\ArraySorter2.dll
+c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\Sort2\bin\Debug\netcoreapp1.1\ArraySorter2.pdb
+c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\Sort2\obj\Debug\netcoreapp1.1\ArraySorter2.AssemblyInfo.cs
+c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\Sort2\obj\Debug\netcoreapp1.1\ArraySorter2.dll
+c:\users\ashepherd\documents\visual studio 2017\Projects\DataGathering\Sort2\obj\Debug\netcoreapp1.1\ArraySorter2.pdb
